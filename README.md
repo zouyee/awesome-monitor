@@ -4,8 +4,8 @@
 > A curated list of monitor ecosystem resources and projects
 Inspired by [@sindresorhus](https://github.com/sindresorhus)' [awesome][sindresorhus] and improved by these **[amazing contributors](https://github.com/zouyee/awesome-monitor/graphs/contributors)**.
 
-It's now a GitHub project because it's considerably easier for other people to edit, fix and expand on Docker using GitHub. Just click [README.md][editREADME] to submit a [pull request][editREADME].
-If this list is not complete, you can [contribute][editREADME] to make it so.
+It's now a GitHub project because it's considerably easier for other people to edit, fix and expand on monitor ecosystem using GitHub. Just click [README.md][editREADME] to submit a pull request.
+If this list is not complete, you can contribute to make it so.
 
 > **Please**, help organize these resources so that they are _easy to find_ and _understand_ for new comers. See how to **[Contribute](https://github.com/zouyee/awesome-monitor/blob/master/CONTRIBUTING.md)** for tips!
 
