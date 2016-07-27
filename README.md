@@ -9,7 +9,7 @@ If this list is not complete, you can contribute to make it so.
 
 > **Please**, help organize these resources so that they are _easy to find_ and _understand_ for new comers. See how to **[Contribute](https://github.com/zouyee/awesome-monitor/blob/master/CONTRIBUTING.md)** for tips!
 
-#### *If you see a link here that is not (any longer) a good fit, you can fix it by submitting a [pull request][editREADME] to improve this file. Thank you!*
+#### *If you see a link here that is not (any longer) a good fit, you can fix it by submitting a [pull request](https://github.com/veggiemonk/awesome-docker/edit/master/README.md) to improve this file. Thank you!*
 
 The creators and maintainers of this list do not receive and should not receive any form of payment to accept a change made by any contributor. The goal of this repo is to index articles, learning materials and projects, not to advertise for profit. **All pull requests are merged by default** and removed if inappropriate or unavailable, or fixed when necessary.
 
